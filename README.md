@@ -6,7 +6,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Mauro de Carvalho and I'm Systems Analyst!
+My name is Mauro de Carvalho and I'm Systems Analyst, Web Developer, Open Source enthusiast, bad jokes master and at spare time I try to act like a normal human being!
 
 - :mortar_board: I'm graduated in Technology in Systems Analysis and Development
 - :unlock: Specialized in Ethical Hacking and CyberSecurity
