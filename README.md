@@ -11,5 +11,5 @@ My name is Mauro de Carvalho and I'm Systems Analyst!
 - :mortar_board: I'm graduated in Technology in Systems Analysis and Development
 - :unlock: Specialized in Ethical Hacking and CyberSecurity
 - :mag: Also specialized in Computer Forensics
-- :muscle: Constantly looking for improvements
-- :rocket: I love to write about things I'm learning (See my profile on Medium, coff coff..)
+- :rocket: Constantly looking for improvements
+- :pencil: I love to write about things I'm learning (See my profile on Medium, coff coff..)
