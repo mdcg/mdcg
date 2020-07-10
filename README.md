@@ -4,7 +4,7 @@ My name is Mauro de Carvalho and I'm Systems Analyst!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mdcg)](https://github.com/mdcg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurodcg/)](https://www.linkedin.com/in/maurodcg/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-blue?style=flat-square&logo=Medium&logoColor=808080&link=https://medium.com/@mdcg.dev/)](https://medium.com/@mdcg.dev/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-808080?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mdcg.dev/)](https://medium.com/@mdcg.dev/)
 
 
 <!--
